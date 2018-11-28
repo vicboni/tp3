@@ -19,11 +19,11 @@ Ce TP a pour but de vous donner une vision sur les concepts ML et sur les outils
 * Machine Learning (Deep learning, data mining, ...)
 * Deep learning 
 * Neural network
-* Entrainement du modèle
+* Entrainement du modèle  
+
 ![ML Training model](https://image.slidesharecdn.com/evaluatingml-150916204123-lva1-app6892/95/evaluating-machine-learning-models-a-beginners-guide-29-638.jpg?cb=1442436244 "ML Training model")
 * TensorFlow
 * TensorFlow serving
-`https://cdn-images-1.medium.com/max/1600/1*mHePtJJbR2TUtM6sYZNdzA.jpeg`
 ![Tensorflow Serving](https://cdn-images-1.medium.com/max/1600/1*mHePtJJbR2TUtM6sYZNdzA.jpeg "Tensorflow Serving")
 * Appel depuis les machines client (RPC: remote procedure call)
 * Jupyter notebook
