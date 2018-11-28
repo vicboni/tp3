@@ -31,7 +31,7 @@ Ce TP a pour but de vous donner une vision sur les concepts ML et sur les outils
 ## 1 : Tensorflow + Jupyter
 
 ### 1.0 : Pull request time !!
-Forker et cloner [le repository du tp2](https://github.com/cours-ece/tp2).
+Forker et cloner [le repository du tp3](https://github.com/cours-ece/tp2).
 Ajouter votre prénom, votre nom au fichier answers.md et votre numéro d'équipe (de 1 à 7), puis réaliser une pull request sur le repository du tp.
 
 ### 1.1 : Deployer Tensorflow
