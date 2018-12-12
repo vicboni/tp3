@@ -12,5 +12,3 @@ layer: Une layer est une couche d'un réseau de neurones dont applique des opér
 
 ## 3
 answer: Un model doit être entrainé à de multiples reprises pour qu'il soit plus précis en fonction des données qui lui sont injectées. Pour simplifier et automatiser ce processus, on peut utiliser Docker ou bien Torus
-
-docker run -it -p 8989:8989 -e MODEL_NAME=mnist -t vicboni/tp3
